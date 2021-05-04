@@ -9,3 +9,5 @@ fields:
   label: Layout
   description: 'Layout:'
   default: Post
+pages:
+- _posts/2021-05-04-Sample Post.md
