@@ -1,4 +1,11 @@
 ---
 label: Blog Post
 hide_body: false
-fields: []
+fields:
+- name: Layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  description: 'Layout:'
+  default: Post
